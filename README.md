@@ -4,6 +4,7 @@ It is  basic Password generator App. It is made using Html,Css,Javascript.
 
 1) It takes input regarding the length of password,various allowed characters and generate Random password.
 2) It is compatible with copy on clipboard function.
+3) it shows the strength of password
 
 I learned various things about java script during this project.
 1) generating random number
